@@ -1,0 +1,441 @@
+ol {
+	margin: 0.4em 0;
+	padding-left: 1.3em;
+}
+
+ul > li {
+	margin-bottom: 0.15em;
+}
+
+ul {
+	margin: 0.4em 0;
+	padding-left: 1.3em;
+}
+
+/* NAV */
+
+.questionbutton {
+	width: 2.75em;
+	min-height: 2em;
+	border-radius: 3px;
+	border: 0.1em solid #333;
+	background-color: #fff;
+	margin: 0 0.5em;
+	box-sizing: content-box;
+}
+
+.questionbutton.notyet {
+	border-color: #eee;
+	background-color: white;
+}
+
+.questionbutton.answered {
+	background-color: #c5e4f8;
+}
+
+.questionbutton.current {
+	border: 0.25em solid #333;
+	background-color: #8ee1ff;
+	margin: 0 0.35em;
+}
+
+/*
+.questionbutton.wrong {
+	background-color: #c89;
+}
+
+.questionbutton.right {
+	background-color: #8c9;
+}
+*/
+
+/* content */
+
+
+.main {
+	padding: 0 1em;
+}
+
+.unit-title {
+	font-size: 1rem;
+	text-align: center;
+	margin: 1em auto;
+	max-width: 60vw;
+	color: #fff;
+	font-weight: normal;
+}
+
+#breadcrumbs {
+	position: absolute;
+	right: 1em;
+	top: 1em;
+	color: #fff;
+	font-size: 0.7rem;
+}
+
+.content_block {
+	width: 100%;
+}
+
+.content {
+	width: 38rem;
+	min-width: 18rem;
+	max-width: 90vw;
+	margin: 0 auto;
+}
+
+
+#questionfull.notab:focus {
+	outline: none;
+}
+
+.question {
+	width: 100%;
+	-webkit-user-select: none;
+	user-select: none;
+}
+
+.quizimage {
+	position: relative;
+	margin: 0.5em auto 0;
+	display: block;
+	max-width: 100%;
+	height: 20em;
+	height: auto;
+	width: 90%;
+	z-index: 1;
+}
+
+.quizimage.slide {
+	transition-duration: 0.75s;
+}
+
+#questiontext {
+	position: relative;
+	font-family: "RalewayMedium";
+	background-color: #fff;
+	border-radius: 0.75em;
+	font-size: 1.1rem;
+	line-height: 1.3em;
+	padding: 1.5em 2em;
+	z-index: 2;
+}
+
+#questiontext.slide2 {
+	transition-duration: 0.75s;
+}
+
+#result {
+	color: #fff;
+	font-size: 2rem;
+	text-align: center;
+	display: block;
+	margin: 0 auto 1rem;
+	transition: transform 0.7s;
+	font-family: "RalewaySemi";
+}
+
+#result.small {
+	transition: transform 0;
+	transform: scale(0.1);
+}
+
+.review {
+	font-family: "RalewayBold";
+	margin-top: 0;
+	text-align: center;
+	font-size: 1.2rem;
+}
+
+.callout {
+	display: block;
+	border-radius: 0.3rem;
+	background-color: #D0E8FF;
+	width: 90%;
+	padding: 1rem;
+	margin: 1em auto 0;
+	font-size: 1.2rem;
+	line-height: 1.3em;
+}
+
+.inlineimage {
+	display: block;
+	margin: 1em auto;
+}
+
+.answer {
+	width: 100%;
+	position: relative;
+}
+
+.buttons {
+	width: 80%;
+	margin: 1em auto;
+}
+
+.answerbutton {
+	position: relative;
+	width: 100%;
+	min-width: 18em;
+	min-height: 3em;
+	height: 4em;
+	border-radius: 3em;
+	border: 1px solid #333;
+	margin-bottom: 0.7em;
+	background-color: #fff;
+	font-size: 1rem;
+	padding: 0 5px 0 0;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	box-shadow: 3px 3px 0px 0px #000;
+}
+
+.answerbutton:hover,
+.answerbutton:focus {
+	background-color: #D5EAFF;
+}
+
+.answerbutton.fade.exit {
+	opacity: 0;
+	transition-duration: 0.6s;
+}
+
+.answerbutton:active {
+	background-color: #E9F4FF;
+	color: black;
+}
+
+.answerbutton:disabled {
+	color: black;
+}
+
+.answerbutton.answered {
+	box-shadow: none;
+	border-width: 3px;
+	padding: 3px;
+}
+
+.answerbutton.correct {
+	box-shadow: none;
+	background-color: #ABECA1;
+	transition: background-color 0.7s;
+}
+
+.answerbutton.incorrect {
+	box-shadow: none;
+	background-color: #FE957C;
+	transition: background-color 0.7s;
+}
+
+.answerbutton .answertext {
+	text-align: left;
+	margin-left: 3.6em;
+	margin-right: 1.4em;
+}
+
+.answerbutton .aletter {
+	position: absolute;
+	display: flex;
+	left: 0.5em;
+	flex-direction: column;
+	justify-content: center;
+	background-color: #FFCF10;
+	box-shadow: -3px -3px 0px 0px #C69E00 inset;
+	border: 1px solid #222222;
+	width: 2.5em;
+	height: 2.5em;
+	border-radius: 1.75em;
+	font-family: "RalewayBold";
+	padding: 0;
+}
+
+
+#discussion {
+	border: 1px solid black;
+	background-color: #ffec63;
+	margin-bottom: 1em;
+	padding: 0.5em;
+}
+
+.nextdiv {
+	position: relative;
+	width: 100%;
+	margin-top: 0.5em;
+	display: flex;
+	justify-content: center;
+}
+
+#button_block {
+	position: revert;
+	width: 100%;
+	max-width: 100vw;
+	top: 0;
+	left: 0;
+	pointer-events: none;
+}
+
+.nextbutton {
+	position: absolute;
+	right: 1rem;
+	bottom: 1rem;
+	pointer-events: all;
+	z-index: 3;
+}
+
+.nextbutton:active {
+	padding-top: 3px;
+}
+
+.nextbutton .icon,
+.restartbutton .icon {
+	height: 1.25em;
+	vertical-align: bottom;
+	margin-left: 0.5em;
+}
+
+.backbutton {
+	position: absolute;
+	left: 1rem;
+	bottom: 1rem;
+	pointer-events: all;
+	z-index: 3;
+}
+
+.backbutton:active {
+	padding-top: 3px;
+}
+
+.backbutton .icon,
+.completebutton .icon {
+	height: 1.25em;
+	vertical-align: bottom;
+	margin-right: 0.5em;
+}
+
+.restartbutton,
+.completebutton {
+	position: absolute;
+	right: 1rem;
+	bottom: 1rem;
+	pointer-events: all;
+	z-index: 3;
+}
+
+.homebutton {
+	position: absolute;
+	left: 1.2rem;
+	top: 0.6rem;
+	height: 2.5rem;
+	width: 2.5rem;
+	border-radius: 1.25rem;
+	padding: 0;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.homebutton .icon {
+	width: 55%;
+	vertical-align: bottom;
+}
+
+@media screen and (max-aspect-ratio: 3/4) {
+	html {
+		font-size: 2.5vmin;
+	}
+}
+
+@media screen and (min-aspect-ratio: 18/9) {
+
+	/* very wide screen - probably want to scroll */
+	html {
+		font-size: 1.14vw;
+	}
+
+	.quizimage {
+		max-height: 52vh;
+		width: auto;
+	}
+}
+
+
+@media screen and (min-width: 800px) and (min-aspect-ratio: 4/3) {
+	.backbutton {
+		position: absolute;
+		left: 1rem;
+		top: 4rem;
+	}
+
+	.restartbutton,
+	.completebutton {
+		position: relative;
+		margin: 0 auto;
+		top: 1rem;
+	}
+
+}
+
+@media screen and (max-width: 800px) {
+
+	/* small but may be landscape phone */
+	html {
+		font-size: 15pt;
+	}
+
+	.content {
+		min-width: 13rem;
+	}
+
+	.answerbutton {
+		min-width: 13rem;
+	}
+
+	.homebutton {
+		left: 1rem;
+		top: 0.5rem;
+		height: 2rem;
+		width: 2rem;
+	}
+}
+
+@media screen and (max-width: 890px) and (max-aspect-ratio: 4/3) {
+	/* landscape phone */
+
+	.main {
+		padding: 0;
+	}
+
+	#button_block {
+		height: auto;
+		pointer-events: none;
+		position: relative;
+	}
+
+	.backbutton {
+		top: 1rem;
+		left: 0.5rem;
+	}
+
+	.nextbutton {
+		top: 1rem;
+		right: 0.5rem;
+	}
+
+	.buttons {
+		width: 100%;
+	}
+
+	.answerbutton {
+		height: 6em;
+		border-radius: 4em;
+	}
+
+
+	.completebutton,
+	.restartbutton {
+		top: 1rem;
+		right: 0.5rem;
+	}
+
+}

@@ -1,0 +1,128 @@
+area #	Right/wrong	answer leader	Text	Image file name	alt text	Big text	Button 1	Button 2	Notes
+1			Computers are powerful tools that help you do many things. But you need to take care of them so they keep working.	iStock-1460008014.jpg	null		next	0	
+1			Here's an easy first question: is it good or bad practice to spill liquid on your computer and then drop it on the ground?	iStock-646367282.jpg	null		Good practice	Bad practice	
+1	w	Oops.	Always keep your computer safe. Make sure your computer is dry and doesn't fall onto the floor. Both of those things can destroy a computer.	iStock-1426494949.jpg	null		next	0	
+1	r	That's right!	Always keep your computer safe. Make sure your computer is dry and doesn't fall onto the floor. Both of those things can destroy a computer.	iStock-1426494949.jpg	null		next	0	
+2			"Is it good or bad practice to keep your computer charged, and to close applications you're not using?"	iStock-92032837.jpg	null		Good practice	Bad practice	
+2	r	That's right!	"Even though a computer is powerful, it won't work without being charged – and having too many applications open at once can slow it down. When you can, charge your computer, and close applications you're not using."	iStock-1604023472.jpg	null		next	0	
+2	w	Oops.	"Even though a computer is powerful, it won't work without being charged – and having too many applications open at once can slow it down. When you can, charge your computer, and close applications you're not using."	iStock-1604023472.jpg	null		next	0	
+2			"When your computer is all charged, you can take it with you wherever you go. You might want to use it in a library, cafe, restaurant, or somewhere where they offer free wi-fi to connect to the internet."	iStock-1474811525.jpg	null		next	0	
+3			Is public wi-fi safe to use?	iStock-1452764299.jpg	null		It's USUALLY safe to use public wi-fi	It's NEVER safe to use public wi-fi	
+3	r	That's right!	"Public wi-fi is usually safe to use, as long as you only visit secure websites with addresses that start with HTTPS. Save private things – like health care, banking, and shopping – for when you're at home."	TGH_illustrations_url blurred.png	null		next	0	
+3	w	Oops.	"Public wi-fi is usually safe to use, as long as you only visit secure websites with addresses that start with HTTPS. Save private things – like health care, banking, and shopping – for when you're at home."	TGH_illustrations_url blurred.png	null		next	0	
+4			One thing you will probably do on your computer is stay in touch with people through email and direct messaging.	iStock-1313261640.jpg	null		next	0	
+4			What's the difference between email and direct messaging?	TGH_illustrations_email-texting-icons.png	null		Email is like writing a letter. Direct messaging is like talking to someone.	Email is only for paying bills. Direct messaging is mainly for sending photos.	
+4	r	That's right!	Email and direct messaging are different in two main ways.	TGH_illustrations_email-texting-icons.png	null		next	0	
+4	w	Oops.	Email and direct messaging are different in two main ways.	TGH_illustrations_email-texting-icons.png	null		next	0	
+4			"Email is for longer messages, and is often used in the workplace. Email is usually answered within a day or two. "	TGH_illustrations_email-inbox.png	"An email inbox with a shopping email highlighted. The subject line reads, ""Your order is arriving soon!"""		next	0	
+4			"Direct messaging is more like a conversation with friends and family. It's faster than email, with messages being answered very quickly. Both email and direct messaging can be used to send words, photos, and documents."	TGH_illustrations_texting.png	"A closeup of a text conversation between John and another person, who are planning to meet "		next	0	
+4			"Both email and direct messaging are great ways to keep in touch, and almost everyone uses them. But because they're so popular, they're ALSO popular with scammers who want to trick you into giving them information or money. To do so, scammers may send you fake emails."	iStock-1472120250.jpg	null		next	0	
+5			"Scamming with fake emails is called PHISHING (which is pronounced like FISHING). Scammers send out thousands of emails, and only need to have one or two people ""bite"" to make it worth their while."	TGH_illustrations_phishing.png	null		next	0	
+5			Scammers know that people like to...			"1. Get packages in the mail
+2. Save money with special deals
+3. Help others
+4. Take care of a problem – especially if it seems urgent
+
+So these are often seen in phishing scams."			
+6			"Online safety is very important, so let's take a closer look at some REAL phishing scams so that you can recognize them and protect yourself."	TGH_illustrations_phishing.png	null		next	0	
+6			Let's say you get this email. Should you click on the CONTINUE button or the SCHEDULE YOUR DELIVERY button?	TGH_illustrations_fedex1.png	Closeup of an email that looks like it's from FedEx		The CONTINUE button should be safe	Neither one is safe	
+6	w	Oops.	"You should never click a link in an email unless you are absolutely sure it's safe. In this case, there are warning signs that this is a scam. Let's look at some of them."	TGH_illustrations_fedex1.png	Closeup of an email that looks like it's from FedEx		next	0	
+6	r	That's right!	"You should never click a link in an email unless you are absolutely sure it's safe. In this case, there are warning signs that this is a scam. Let's look at some of them."	TGH_illustrations_fedex1.png	Closeup of an email that looks like it's from FedEx		next	0	
+6			"First, the name of the sender is weird. Ask yourself: why would a group called Customer Survey send an email about a shipment. (""Survey"" means a series of questions.)"	TGH_illustrations_fedex2.png	"A highlight of the sender's email account name, which is ""FedEx Customer Survey"""		next	0	
+6			"Second, look at the email address of the sender. The email claims to be sent by FedEx, a company that delivers packages. But the URL doesn't even mention FedEx. In fact, it doesn't make much sense at all."	TGH_illustrations_fedex3.png	"A highlight of the sender's email address, which is 8937491@gcbt.twe.uv.eu"		next	0	
+6			"And look at this part, where it says FINAL NOTICE. One things scammers do is try to make you rush without thinking. Saying something is your final notice makes it seem like something bad will happen if you don't click on these buttons right away."	TGH_illustrations_fedex4.png	null		next	0	
+6			"Last, stop and think: it's very unlikely FedEx knows your email but doesn't know your home address. So you shouldn't need to ""confirm your shipping details."""	TGH_illustrations_fedex5.png	null		next	0	
+6			"So, there are lots of warning signs that this email is a scam, and that clicking on any of these links would be bad. Also, ask yourself: did you even order anything? Remember, scammers know that people love to get packages.
+
+"	TGH_illustrations_fedex1.png	Closeup of an email that looks like it's from FedEx		next	0	
+7			What do you think could happen if you clicked a link in this email?	TGH_illustrations_fedex1.png	Closeup of an email that looks like it's from FedEx		"Someone could steal my passwords, credit card numbers, and personal information"	My computer could catch fire	
+7	r	That's right!	"Your computer could be hacked, or you could lose a lot of money and personal information if you click scam links and follow what they ask you to do."	iStock-1753826292.jpg	null		next	0	
+7	w	Oops.	"Your computer could be hacked, or you could lose a lot of money and personal information if you click scam links and follow what they ask you to do."	iStock-1753826292.jpg	null		next	0	
+7			"If you ever want to check to see if an email is real, you can always go directly to the company's site – but do NOT use information in the email! Get their phone number from the website, and give them a call to see if they really have a package for you."	iStock-506435108.jpg	null		next	0	
+8			"Here are a few more common types of scam emails. Take a look at them, and see if you can figure out what the warning signs are. Then click ahead to see if you were right!"	iStock-1278976690.jpg	null		next	0	
+8			Here's an email saying you've won a tool cart. What clues do you see that tell you this is actually a scam?	spam_prize.png	"An email that looks like it's from a store called Harbor Freight, telling you that you've won a tool cart"		next	0	
+8			"People love to win free things – but really, nothing is ever given away for free. So when you see an email saying that you've WON something, or have been CHOSEN TO GET something, be very careful. If it looks too good to be true, it probably is."	spam_prize_highlights.png	null		next	0	
+9			How about this email from Groupon – a coupon company – that's asking you to update your password? What clues do you see that should warn you that this is phishing?	spam_groupon1.png	"An email that looks like it's from a company called Groupon, telling you that you need to update your password to protect your account"		next	0	
+9			"There are many clues that this is a scam...
+
+1. It's not addressed to a particular person."	spam_groupon2.png	"The Groupon email, with the greeting ""Hi There"" highlighted"		next	0	
+9			"2. The words UNUSUAL ACTIVITY might start to worry you. And if an email ever starts to worry you, STOP and take a moment to really study it. Don't rush into anything."	spam_groupon3.png	null		next	0	
+9			"3. A request to update your password, sent to you in an email, is always very suspicious."	spam_groupon4.png	null		next	0	
+9			4. NEVER click on a link in an email unless you're totally sure it's safe.	spam_groupon5.png	"The Groupon email, with the words on a link reading ""forgot your password"" highlighted"		next	0	
+10			How about this email from a bank? What looks suspicious?	spam_wellsfargo1.png	"An email that looks like it's from Wells Fargo bank, with an attached pdf. It includes a clickable button marked ""open."""		next	0	
+10			"Let's see how you did!
+
+1. Always be suspicious of unexpected email from a bank, even if it's a bank you use – especially if the email itself is messy, like with the words BANK ACCESS REVIEW that are all pushed together. Remember, if you think it MIGHT be real, you can always call your bank directly to check."	spam_wellsfargo2.png	null		next	0	
+10			"2. If you have no idea who the sender is, stop and take a closer look.
+"	spam_wellsfargo3.png	"The Wells Fargo email, with the sender's email address highlighted. It reads ""rodingplatit@acoounthelink.comphelkac.us"""		next	0	
+10			"3. PDFs are a type of document you may see attached to emails, but be very careful opening them, as they can contain viruses. Don't click on them if you don't know what they are or who they're from."	spam_wellsfargo4.png	"The Wells Fargo email, with the PDF attachment highlighted. The PDF is called ""your-account-review.pdf"""		next	0	
+10			"4. Whenever you're asked to click a link in an email, STOP and think: is this real? It's better to be safe than sorry."	spam_wellsfargo5.png	"The Wells Fargo email, with the ""open"" button highlighted"		next	0	
+11			Now how about this one? At first this email looks like it's an official communication from the United States government – but take a closer look. What seems suspicious?	TGH_illustrations_homeland_security1.png	An email that looks like it's from the U.S. Treasury Department. It says there is $2.75 million waiting for you if you contact them.		next	0	
+11			"Here are some clues that this is a phishing attempt...
+
+1. This top part DOES look like an official U.S. email – but even so, ask yourself: why would the head of Homeland Security send ME an email? That seems weird."	TGH_illustrations_homeland_security2.png	null		next	0	
+11			"2. Anytime you get an email that claims you will suddenly get lots of money, STOP and think: this is probably a scam. (If you REALLY want to check it out, you can find REAL contact information for Homeland Security on the web, and contact them directly with any questions you have.)"	TGH_illustrations_homeland_security3.png	"The Treasury Department email, with a highlighted portion telling you that ""your funds of $2.75 million have been approved""  "		next	0	
+11			"3. As in an earlier example, if an email mentions a BANK – and in this case, a WIRE TRANSFER, too – you should immediately stop. This is a common trick that scammers try, to have you wire them money."	TGH_illustrations_homeland_security4.png	"The Treasury Department email, with a highlighted portion telling you that ""you will receive your payment via bank direct wire deposit""  "		next	0	
+11			"4. Anytime an email tells you not to contact other people, that is a huge warning sign that this is a scam."	TGH_illustrations_homeland_security5.png	"The Treasury Department email, with a highlighted portion telling you that you should ""stop correspondence with anyone else""  "		next	0	
+12			Here's another email that makes it seem like you can get millions of dollars for free. And it has a lot of the warning signs you just learned about – plus some other common danger signs.	TGH_illustrations_elizabeth1.png	"An email that looks like it's from a woman named Elizabeth Edwards, saying that she's dying and that she wants to give you 9.5 million Euros"		next	0	
+12			1. You don't know the person who sent it.	TGH_illustrations_elizabeth2.png	"The Elizabeth Edwards email, with her name ""Mrs. Elizabeth"" highlighted"		next	0	
+12			2. It's not personally addressed to you.	TGH_illustrations_elizabeth4.png	"The Elizabeth Edwards email, with the words ""am expecting your response"" highlighted"		next	0	
+12			"3. It's appealing to human nature, that people want to help others."	TGH_illustrations_elizabeth3.png	"The Elizabeth Edwards email, with a highlighted portion saying that ""you are honest"" and that ""she believes you can fulfill her dying request"""		next	0	
+12			"4. It's poorly written, with lots of typos and incorrect words."	TGH_illustrations_elizabeth6.png	"The Elizabeth Edwards email, with the words ""pro-long"" and ""if you will be interesting"" highlighted"		next	0	
+12			5. It claims you will get rich quickly.	TGH_illustrations_elizabeth5.png	"The Elizabeth Edwards email, with the phrase ""9.5 million Euros"" highlighted"		next	0	
+12			6. It claims that there is no risk involved.	TGH_illustrations_elizabeth7.png	"The Elizabeth Edwards email, with the phrase ""no risks"" highlighted"		next	0	
+12			"7. It asks you to keep this confidential, to not tell anyone else about this."	TGH_illustrations_elizabeth8.png	"The Elizabeth Edwards email, with a portion highlighted stating ""I will appreciate your utmost confidentiality as I wait for your reply."""		next	0	
+12			"So, those are a LOT of warning signs. If you ever get an email like this one, just delete it."	TGH_illustrations_elizabeth1.png	"An email that looks like it's from a woman named Elizabeth Edwards, saying that she's dying and that she wants to give you 9.5 million Euros"		next	0	
+13			"Okay, here's one last example. What should you do if you receive an email like this, saying that you've been billed for something you didn't buy? "	TGH_illustrations_paypal1.png	"An email titled ""Invoice"" that looks like it is from PayPal, claiming that you've been charged $1,010. There is a bar code across the top and a ""helpline"" phone number at the bottom."		Look for warning signs that this might be a scam	Call the number as soon as possible to take care of the error	
+13	r	That's right!	"You should NEVER call a phone number in an email or a direct message you think is a scam. The scammers WANT you to respond directly to them. They WANT you to believe that someone ELSE is scamming you, and that THEY can help you fix it. But none of that is true."	TGH_illustrations_paypal1.png	"An email titled ""Invoice"" that looks like it is from PayPal, claiming that you've been charged $1,010. There is a bar code across the top and a ""helpline"" phone number at the bottom."		next	0	
+13	w	Oops.	"You should NEVER call a phone number in an email or a direct message you think is a scam. The scammers WANT you to respond directly to them. They WANT you to believe that someone ELSE is scamming you, and that THEY can help you fix it. But none of that is true."	TGH_illustrations_paypal1.png	"An email titled ""Invoice"" that looks like it is from PayPal, claiming that you've been charged $1,010. There is a bar code across the top and a ""helpline"" phone number at the bottom."		next	0	
+13			"The warning signs in this email are...
+
+1. It doesn't mention your name, just numbers."	TGH_illustrations_paypal2.png	"The PayPal email, highlighting a portion that shows your supposed ID number, but not your name"		next	0	
+13			"2. It looks like you're about to be charged over $1,000 – which probably makes you feel worried."	TGH_illustrations_paypal3.png	null		next	0	
+13			3. It says you only have 24 hours to act – which makes it seem like you must act quickly.	TGH_illustrations_paypal4.png	null		next	0	
+13			"4. THEY provide contact info for you to click on or, in this case, for you to call. REMEMBER, even if you actually use PayPal (which is a way to pay for things online) and are concerned you might lose money, search the web for PayPal's contact information YOURSELF, and call or email them directly."	TGH_illustrations_paypal5.png	"The PayPal email, highlighting a ""help line"" phone number they want you to call "		next	0	
+14			"Phew! That was a lot! But it's very important to learn how to use computers and email safely. To wrap up, let's take a look at what we've learned."	iStock-1297168636.jpg	null		next	0	
+14			To keep your computer safe...			^ *Don't drop it.*	next	0	
+14			To keep your computer safe...			"^ Don't drop it.
+^ *Don't spill liquids on it.*"	next	0	
+14			To keep your computer safe...			"^ Don't drop it.
+^ Don't spill liquids on it.
+^ *Plug it in as often as you can.*"	next	0	
+14			To keep your computer safe...			"^ Don't drop it.
+^ Don't spill liquids on it.
+^ Plug it in as often as you can.
+^ *Close unused applications to make your computer run faster.*"	next	0	
+14			"To keep your money and privacy safe, here's how to protect yourself against scammers..."			^ *Never click a link in an email unless you are sure it's safe.*	next	0	
+14			"To keep your money and privacy safe, here's how to protect yourself against scammers..."			"^ Never click a link in an email unless you are sure it's safe.
+^ *Watch out for emails that aren't really addressed to you (although even emails that DO have your name in them can be scams).*"	next	0	
+14			"To keep your money and privacy safe, here's how to protect yourself against scammers..."			"^ Never click a link in an email unless you are sure it's safe.
+^ Watch out for emails that aren't really addressed to you (although even emails that DO have your name in them can be scams).
+^ *Watch out for emails that create a sense of urgency.*"	next	0	
+14			"To keep your money and privacy safe, here's how to protect yourself against scammers..."			"^ Never click a link in an email unless you are sure it's safe.
+^ Watch out for emails that aren't really addressed to you (although even emails that DO have your name in them can be scams).
+^ Watch out for emails that create a sense of urgency.
+^ *If an email says either that you may GET a lot of money or LOSE a lot of money, stop and think about it.*"	next	0	
+14			"To keep your money and privacy safe, here's how to protect yourself against scammers..."			"^ Never click a link in an email unless you are sure it's safe.
+^ Watch out for emails that aren't really addressed to you (although even emails that DO have your name in them can be scams).
+^ Watch out for emails that create a sense of urgency.
+^ If an email says either that you may GET a lot of money or LOSE a lot of money, stop and think about it.
+^ *If you're worried that there may actually be a problem of some sort, DO NOT contact the links or phone numbers listed in the email. Instead, look up the company on the web to get the REAL contact information, and check with them.*"	next	0	
+14			"To keep your money and privacy safe, here's how to protect yourself against scammers..."			"^ Never click a link in an email unless you are sure it's safe.
+^ Watch out for emails that aren't really addressed to you (although even emails that DO have your name in them can be scams).
+^ Watch out for emails that create a sense of urgency.
+^ If an email says either that you may GET a lot of money or LOSE a lot of money, stop and think about it.
+^ If you're worried that there may actually be a problem of some sort, DO NOT contact the links or phone numbers listed in the email. Instead, look up the company on the web to get the REAL contact information, and check with them.
+^ *Lastly, just always be on the lookout for scams or phishing. By keeping your guard up, and giving yourself time to think things over, you will protect your money, your personal information, and your privacy.*"	next	0	
+14			That's it! You have learned many ways to keep you and your computer safe! Congratulations!	iStock-1499799503.jpg	null		next	0	
+15			"Here's how to keep your computer safe, AND how to protect yourself against scammers..."			"^ Don't drop your computer.
+^ Don't spill liquids on it.
+^ Plug it in as often as you can.
+^ Close unused applications to make your computer run faster.
+
+^ To protect yourself against scammers, never click a link in an email unless you are sure it's safe.
+^ Watch out for emails that aren't really addressed to you (although even emails that DO have your name in them can be scams).
+^ Watch out for emails that create a sense of urgency.
+^ If an email says either that you may GET a lot of money or LOSE a lot of money, stop and think about it.
+^ If you're worried that there may actually be a problem of some sort, DO NOT contact the links or phone numbers listed in the email. Instead, look up the company on the web to get the REAL contact information, and check with them.
+^ Lastly, just always be on the lookout for scams or phishing. By keeping your guard up, and giving yourself time to think things over, you will protect your money, your personal information, and your privacy."			

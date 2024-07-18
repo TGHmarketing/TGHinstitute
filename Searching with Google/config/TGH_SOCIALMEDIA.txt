@@ -1,0 +1,54 @@
+area #	Right/wrong	answer leader	Text	Image file name	alt text	Big text	Button 1	Button 2	Notes
+1			"You can do many things on the internet – shop, learn, email, watch movies – but something else that people spend a lot of time with is: social media."	iStock-1390895729.jpg	null		next	0	
+1			What is social media?	iStock-1312425667.jpg	null		TV shows that talk about society. Like soap operas!	Places on the internet where people share content and talk about it.	
+1	w	Oops.	"Social media are places on the internet where people share content and talk about it. They include Facebook, TikTok, YouTube, Instagram, and LinkedIn. Let's take a closer look at them..."	social_icons.png	null		next	0	
+1	r	That's right!	"Social media are places on the internet where people share content and talk about it. They include Facebook, TikTok, YouTube, Instagram, and LinkedIn. Let's take a closer look at them..."	social_icons.png	null		next	0	
+1			"FACEBOOK has text, messaging, pictures, and videos. People use Facebook to keep in touch with friends and family, join groups, read and share news, and talk about things they like."	Facebook_Interface.png	"The Facebook page for GBH, showing photos of the building, plus stories about PBS Newshour and Frontline"		next	0	
+1			"YOUTUBE focuses on longer videos. People share their thoughts, show people how to do things, share clips from TV and movies, share music they've created, and pretty much anything else you can watch."	Youtube_Interface.png	"The YouTube homepage for GBH, including thumbnails for videos about travel, writers, and musicians"		next	0	
+1			"YOUTUBE SHORTS, TIKTOK and INSTAGRAM REELS all show very short videos. They can be silly or serious but are usually posted to make people want to share them."	TGH_illustrations_tiktok-instagram.png	null		next	0	
+1			"Many sites do more than one thing. YouTube also has live events, while Instagram also has lots of pictures and news. Facebook has places to buy and sell things. And they all have a lot of advertising and promotion."	TGH_illustrations_social-content.png	null		next	0	
+1			"LINKEDIN is the only one of these to focus on jobs and careers. Many people use LinkedIn to show their work experience, and to look for work."	LinkedIn_Interface.png	"The LinkedIn profile page of Jane Wilson, a senior account executive. It shows that she works in Massachusetts, has 414 connections, attended Mass University, and shows some of her previous jobs"		next	0	
+1			"On any of these platforms, you can CREATE content, just LOOK at what others have created, or WRITE comments."	iStock-1313649311.jpg	null		next	0	
+2			"But along with all the fun things you can do on social media, there are many things to watch out for, too."	iStock-1178603315.jpg	null		next	0	
+2			Why are these social media services mostly free?	iStock-1227157537.jpg	null		"They're not free. You ""pay"" with your private information and by seeing ads."	They're free because the government pays for them.	
+2	r	That's right!	"Although you don't have to pay to use them, these services collect all the information you post, and may sell it to other companies so they can target you with specific ads."	iStock-1426362944.jpg	null		next	0	
+2	w	Oops.	"Although you don't have to pay to use them, these services collect all the information you post, and may sell it to other companies so they can target you with specific ads."	iStock-1426362944.jpg	null		next	0	
+3			"If you post something to social media, but then want to delete it, how easy is that to do?"	iStock-1400808488.jpg	null		Very easy	Very hard	
+3	w	Oops.	"It's very hard to remove content – or even just a comment – from social media. And even if you do delete it, people may have already seen it or even made a copy of it. So remember: always think before posting content or comments."	iStock-2032640416.jpg	null		next	0	
+3	r	That's right!	"It's very hard to remove content – or even just a comment – from social media. And even if you do delete it, people may have already seen it or even made a copy of it. So remember: always think before posting content or comments."	iStock-2032640416.jpg	null		next	0	
+4			How much information in social media is fact-checked?	iStock-905130626.jpg	null		All of it	Some of it	
+4	w	Oops.	"Very little information in social media is fact-checked. Many images you see online are totally false, like this flat Earth image. Even things that look real may not be true."	iStock-1293923256.jpg	A picture showing the Earth and the Moon as if they were flat		next	0	
+4	r	That's right!	"Very little information in social media is fact-checked. Many images you see online are totally false, like this flat Earth image. Even things that look real may not be true."	iStock-1293923256.jpg	A picture showing the Earth and the Moon as if they were flat		next	0	
+5			"Another thing to watch out for are fake social accounts set up by scammers – who then contact you in hopes that you will ""friend"" them or ""follow"" them. Once that happens, they may try to get personal information from you, or trick you into giving them money."	iStock-1214768130.jpg	null		next	0	
+5			What clues do you see that this might not be a real account?	TGH_illustrations_facebook-fake-profile1.png	"A Facebook profile page for Jane Doe. Information on the page show that she joined Facebook three days ago, has two friends, and has no posts"		next	0	
+5			"First, look for the date the account was created. If it's brand new, that's a clue it may be a scammer trying to trick you."	TGH_illustrations_facebook-fake-profile2.png	"The Facebook profile page, with highlighted information that Jane joined three days ago"		next	0	
+5			"Accounts that have very few followers are suspicious. If you don't know who they are, you should probably ignore this request."	TGH_illustrations_facebook-fake-profile3.png	"The Facebook profile page, with highlighted information that Jane has two friends"		next	0	
+5			"A final danger sign: people on Facebook and other social media sites usually post a lot about their friends, their family, and what interests them. If the account doesn't have many posts, that could be another sign this is fake."	TGH_illustrations_facebook-fake-profile4.png	"The Facebook profile page, with highlighted information that Jane has no posts available"		next	0	
+6			"Social media can be a lot of fun, but there are some things to watch out for. Let's review what we've learned."			"^ *Social media are places made for keeping in touch with friends, family, and people you're interested in.*"	next	0	
+6			"Social media can be a lot of fun, but there are some things to watch out for. Let's review what we've learned."			"^ Social media are places made for keeping in touch with friends, family, and people you're interested in.
+^ *Examples of social media are Facebook, TikTok, YouTube, Instagram, and LinkedIn.*"	next	0	
+6			"Social media can be a lot of fun, but there are some things to watch out for. Let's review what we've learned."			"^ Social media are places made for keeping in touch with friends, family, and people you're interested in.
+^ Examples of social media are Facebook, TikTok, YouTube, Instagram, and LinkedIn.
+^ *Social media are mostly free to use – but the companies may collect your personal information, sell it, and use it to send you targeted ads.*"	next	0	
+6			"Social media can be a lot of fun, but there are some things to watch out for. Let's review what we've learned."			"^ Social media are places made for keeping in touch with friends, family, and people you're interested in.
+^ Examples of social media are Facebook, TikTok, YouTube, Instagram, and LinkedIn.
+^ Social media are mostly free to use – but the companies may collect your personal information, sell it, and use it to send you targeted ads.
+^ *Social media should be fun and informative. If you feel bad after using it, try using it less.*"	next	0	
+6			"Social media can be a lot of fun, but there are some things to watch out for. Let's review what we've learned."			"^ Social media are places made for keeping in touch with friends, family, and people you're interested in.
+^ Examples of social media are Facebook, TikTok, YouTube, Instagram, and LinkedIn.
+^ Social media are mostly free to use – but the companies may collect your personal information, sell it, and use it to send you targeted ads.
+^ Social media should be fun and informative. If you feel bad after using it, try using it less.
+^ *Most information on social media is not fact-checked, so always be aware that things you see might not be real.*"	next	0	
+6			"Social media can be a lot of fun, but there are some things to watch out for. Let's review what we've learned."			"^ Social media are places made for keeping in touch with friends, family, and people you're interested in.
+^ Examples of social media are Facebook, TikTok, YouTube, Instagram, and LinkedIn.
+^ Social media are mostly free to use – but the companies may collect your personal information, sell it, and use it to send you targeted ads.
+^ Social media should be fun and informative. If you feel bad after using it, try using it less.
+^ Most information on social media is not fact-checked, so always be aware that things you see might not be real.
+^ *Watch out for fake social accounts.*"	next	0	
+6			"That's it! You have learned many ways to enjoy social media, and stay safe while you do. Congratulations!"	iStock-1393196330.jpg	null		next	0	
+7			"Social media can be a lot of fun, but there are some things to watch out for. Let's review what we've learned."			"^ Social media are places made for keeping in touch with friends, family, and people you're interested in.
+^ Examples of social media are Facebook, TikTok, YouTube, Instagram, and LinkedIn.
+^ Social media are mostly free to use – but the companies may collect your personal information, sell it, and use it to send you targeted ads.
+^ Social media should be fun and informative. If you feel bad after using it, try using it less.
+^ Most information on social media is not fact-checked, so always be aware that things you see might not be real.
+^ Watch out for fake social accounts."			
